@@ -23,3 +23,23 @@ section {
 .align-center { align-items: center }
 .center { justify-content: center }
 .space-between { justify-content: space-between}
+
+.btndefault {
+    cursor:pointer;
+    border:none;
+    padding: 6px,12px;
+    border-radius:3px;
+    list-style: height 1.4em;
+    color:white;
+    background-Color: #faa541
+}
+
+.btnprimary {
+    cursor:pointer;
+    border:none;
+    padding: 6px,12px;
+    border-radius:3px;
+    list-style: height 1.4em;
+    color:white;
+    background-Color:#364147
+}
