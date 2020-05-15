@@ -51,3 +51,11 @@ section {
     color:white;
     background-Color:#364147
 }
+
+.form-control {
+    display:block;
+    padding:6px,12px;
+    border:1px, #a0a0a0;
+    color:#8598a2;
+    list-style: height 1.4em;
+}
