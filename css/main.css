@@ -20,39 +20,28 @@ section {
 .align-center { align-items: center;}
 .center { justify-content: center;}
 .space-between { justify-content: space-between;}
+.btn {
+    cursor:pointer;
+    border: 0;
+    padding: 6px 12px;
+    border-radius:3px;
+    line-height: 1.4;
+}
 
 .btn-primary {
-    cursor:pointer;
-    border:none;
-    padding: 6px,12px;
-    border-radius:3px;
-    line-height: 1.4em;
+    color: #ffffff; background-color: #364147;
 }
 
 .btn-default {
-    cursor:pointer;
-    border:none;
-    padding: 6px,12px;
-    border-radius:3px;
-    line-height: 1.4;
-    color:white;
-    background-color: #faa541;
+    color: #ffffff; background-color: #faa541;
+    
 }
 
-.btn {
-    cursor:pointer;
-    border:none;
-    padding: 6px 12px;
-    border-radius:3px;
-    line-height: 1.4;
-    color:white;
-    background-color:#364147;
-}
 
 .form-control {
+    border: 1px solid #a0a0a0;
     display: block;
     padding: 6px 12px;
-    border: 1px solid #a0a0a0;
     color: #8598a2;
     line-height: 1.4;
 }
