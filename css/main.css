@@ -82,3 +82,7 @@ section {
     background-position: center center;
     text-transform: uppercase;
 }
+
+.hero div h1 {padding-left: -30px; font-size: 63px; font-weight: 700; line-height: 0.9;}
+
+.hero div h2 {color:#faa541; font-size: 63px; font-weight: 700; line-height: 0.9;}
