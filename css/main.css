@@ -160,3 +160,11 @@ section {
     background-position: top center;
     min-height: 400px;
 }
+
+.full-banner-sidebar {
+    flex: 0 0 41.666667%;
+    background-color: #364147;
+    padding:30px;
+    color:#ffffff;
+    text-transform: uppercase;
+}
